@@ -1,4 +1,4 @@
-Please visit https://seniorcoder72.github.io/
+Please visit https://Manjul1225.github.io/
 
 ![](https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true)
 
@@ -27,7 +27,7 @@ Please visit https://seniorcoder72.github.io/
 </table>
 
 
-# @seniorcoder72, Welcome!
+# @CodeStar007, Welcome!
   
 
 <a href="https://github.com/seniorcoder72" target="_blank">
