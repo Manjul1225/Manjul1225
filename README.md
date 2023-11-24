@@ -6,7 +6,7 @@ Please visit https://Manjul1225.github.io/
   <tr>
     <td>
       
-- [@seniorcoder72, Welcome!](#seniorcoder72-welcome)
+- [@seniorcoder72, Welcome!](codestar007-welcome)
   - [My personal values and work ethic](#my-personal-values-and-work-ethic)
   - [Rapidfire](#rapidfire)
   - [Languages and Tools](#languages-and-tools)
