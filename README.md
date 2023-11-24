@@ -6,7 +6,7 @@ Please visit https://Manjul1225.github.io/
   <tr>
     <td>
       
-- [@seniorcoder72, Welcome!](codestar007-welcome)
+- [@CodeStar007, Welcome!](codestar007-welcome)
   - [My personal values and work ethic](#my-personal-values-and-work-ethic)
   - [Rapidfire](#rapidfire)
   - [Languages and Tools](#languages-and-tools)
@@ -30,7 +30,7 @@ Please visit https://Manjul1225.github.io/
 # @CodeStar007, Welcome!
   
 
-<a href="https://github.com/seniorcoder72" target="_blank">
+<a href="https://github.com/Manjul1225" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
