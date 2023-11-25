@@ -84,7 +84,7 @@ Please visit https://Manjul1225.github.io/
 <br/>  
   
 
-# 📊 GitHub Stats:
+### 💦 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=seniorcoder72&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -225,7 +225,7 @@ Please visit https://Manjul1225.github.io/
 <br/>  
 
 
-## Rapidfire  
+### Rapidfire  
 <table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [Business Website Deveopment](https://github.com/seniorcoder72)  
@@ -247,7 +247,7 @@ Please visit https://Manjul1225.github.io/
 
 <br/>  
 
-# Do you want to see my past work?
+# 🏆 Do you want to see my past work? 🏆
 ## Product Sale Website
 <a href="https://github.com/Manjul1225/Shopsite" target="_blank">![Trademarktoday](https://github.com/Manjul1225/Shopsite/blob/master/screenshots/interface.jpg)</a>
 <a href="https://github.com/Manjul1225/Shopsite" target="_blank">![Trademarktoday](https://github.com/Manjul1225/Shopsite/blob/master/screenshots/recommended.jpg)</a>
