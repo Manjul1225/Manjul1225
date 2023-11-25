@@ -149,10 +149,10 @@ Please visit https://Manjul1225.github.io/
   <tr>
     <td align="center">
       <a href="https://github.com/NaiboWang">
-        <img src="https://avatars2.githubusercontent.com/u/30287768" width="100px;" alt="NaiboWang"/>
+        <img src="https://avatars.githubusercontent.com/u/149891774?v=4" width="100px;" alt="Mitsuki Miyagi"/>
       </a>
       <br />
-      <a href="https://github.com/NaiboWang">Naibo Wang</a>
+      <a href="https://github.com/mitsukimiyagi39"Mitsuki Miyagi</a>
     </td>
     <td align="center">
       <a href="https://github.com/hoochanlon">
