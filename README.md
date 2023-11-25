@@ -97,7 +97,7 @@ Please visit https://Manjul1225.github.io/
   <tr>
     <td align="center">
       <a href="https://github.com/NaiboWang">
-        <img src="https://avatars.githubusercontent.com/u/149891774?v=4" width="100px;" style="border-radius: 10px;" alt="Mitsuki Miyagi"/>
+        <img src="https://avatars.githubusercontent.com/u/149891774?v=4" width="100px;" style="border-radius: 50px;" alt="Mitsuki Miyagi"/>
       </a>
       <br />
       <a href="https://github.com/mitsukimiyagi39"Mitsuki Miyagi</a>
