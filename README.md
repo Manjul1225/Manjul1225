@@ -29,10 +29,10 @@ Please visit https://Manjul1225.github.io/
 
 # ✨ @CodeStar007, Welcome! ✨
   
-
 <a href="https://github.com/Manjul1225" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+
 
 ## 🎫 Languages and Tools  
 <div align="center">  
@@ -97,7 +97,7 @@ Please visit https://Manjul1225.github.io/
   <tr>
     <td align="center">
       <a href="https://github.com/NaiboWang">
-        <img src="https://avatars.githubusercontent.com/u/149891774?v=4" width="100px;" alt="Mitsuki Miyagi"/>
+        <img src="https://avatars.githubusercontent.com/u/149891774?v=4" border-radius="10px;" width="100px;" alt="Mitsuki Miyagi"/>
       </a>
       <br />
       <a href="https://github.com/mitsukimiyagi39"Mitsuki Miyagi</a>
