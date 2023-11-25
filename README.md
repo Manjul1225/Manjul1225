@@ -37,7 +37,7 @@ Please visit https://Manjul1225.github.io/
 ##📊 &nbsp;**This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjul1225&hide_progress=true)
 
 ## My personal values and work ethic
 ✨ I want to build strong relationships with my clients.
