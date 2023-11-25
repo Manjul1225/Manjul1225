@@ -34,7 +34,9 @@ Please visit https://Manjul1225.github.io/
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
+##📊 &nbsp;**This week I spent my time on**
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 
 ## My personal values and work ethic
@@ -131,6 +133,8 @@ Please visit https://Manjul1225.github.io/
 ![](https://github-readme-stats.vercel.app/api?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=seniorcoder72&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+ 
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=seniorcoder72&theme=radical&no-frame=false&no-bg=true&margin-w=4)
