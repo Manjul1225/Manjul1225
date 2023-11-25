@@ -142,6 +142,115 @@ Please visit https://Manjul1225.github.io/
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### :sparkles: My Followers
+
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/NaiboWang">
+        <img src="https://avatars2.githubusercontent.com/u/30287768" width="100px;" alt="NaiboWang"/>
+      </a>
+      <br />
+      <a href="https://github.com/NaiboWang">Naibo Wang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hoochanlon">
+        <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
+      </a>
+      <br />
+      <a href="https://github.com/hoochanlon">123456</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lowlighter">
+        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
+      </a>
+      <br />
+      <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/snowdream">
+        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
+      </a>
+      <br />
+      <a href="https://github.com/snowdream">snowdream</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Leticia-maria">
+        <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/Leticia-maria">Letícia Maria Pequeno Madureira</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sbilly">
+        <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
+      </a>
+      <br />
+      <a href="https://github.com/sbilly">sbilly</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/victoryang00">
+        <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="victoryang00"/>
+      </a>
+      <br />
+      <a href="https://github.com/victoryang00">Yiwei Yang</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jhonataT">
+        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
+      </a>
+      <br />
+      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/donmartz">
+        <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
+      </a>
+      <br />
+      <a href="https://github.com/donmartz">donmartz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pinhe91">
+        <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>
+      </a>
+      <br />
+      <a href="https://github.com/pinhe91">Han Mei</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bitmote">
+        <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
+      </a>
+      <br />
+      <a href="https://github.com/bitmote">ZhengXiaolei</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AlphaTechnolog">
+        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
+      </a>
+      <br />
+      <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zhuwenxing">
+        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
+      </a>
+      <br />
+      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cnsuhao">
+        <img src="https://avatars2.githubusercontent.com/u/23429527" width="100px;" alt="cnsuhao"/>
+      </a>
+      <br />
+      <a href="https://github.com/cnsuhao">cnsuhao</a>
+    </td>
+  </tr>
+</table>
+<!--END_SECTION:top-followers-->
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=seniorcoder72&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
