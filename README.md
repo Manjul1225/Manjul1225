@@ -147,8 +147,8 @@ https://github.com/Manjul1225/Shopsite/blob/master/screenshots/interface.jpg
 
 # Do you want to see my past work?
 ## Trademarktoday Business Website
-<a href="https://github.com/seniorcoder72/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/Manjul1225/Shopsite/blob/master/screenshots/interface.jpg)</a>
-<a href="https://github.com/seniorcoder72/trademarktoday-nextjs" target="_blank">![Trademarktoday](https://github.com/LouisWinkler/trademarktoday-nextjs/blob/master/public/02.png?raw=true)</a>
+<a href="https://github.com/Manjul1225/Shopsite" target="_blank">![Trademarktoday](https://github.com/Manjul1225/Shopsite/blob/master/screenshots/interface.jpg)</a>
+<a href="https://github.com/Manjul1225/Shopsite" target="_blank">![Trademarktoday](https://github.com/Manjul1225/Shopsite/blob/master/screenshots/recommended.jpg)</a>
 ## InvestFarmLand Business Website
 <a href="https://github.com/seniorcoder72/invest-farm" target="_blank">![InvestFarm](https://github.com/seniorcoder72/invest-farm/blob/master/public/logo1.png?raw=true)</a>
 <a href="https://github.com/seniorcoder72/invest-farm" target="_blank">![InvestFarm](https://github.com/seniorcoder72/invest-farm/blob/master/public/logo2.png?raw=true)</a>
