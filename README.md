@@ -35,6 +35,7 @@ Please visit https://Manjul1225.github.io/
 
 
 ## 🎫 Languages and Tools  
+<br/>
 <div align="center">  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a> 
@@ -85,6 +86,7 @@ Please visit https://Manjul1225.github.io/
   
 
 ### 💦 GitHub Stats:
+<br/>
 ![](https://github-readme-stats.vercel.app/api?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=seniorcoder72&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -204,19 +206,24 @@ Please visit https://Manjul1225.github.io/
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
         
 
-## My personal values and work ethic
-✨ I want to build strong relationships with my clients.
+### About Me
+<br/>
 
-✨ I believe that a good working relationship is built on mutual trust and respect.
+✨ Ability to write clean, maintainable, and efficient code.
 
-✨ I value open communication and strive to keep you updated on progress every step of the way.
+✨ Experience in developing dynamic, interactive and user-friendly  websites.
 
-✨ I am a team player and enjoy collaborating with others to achieve a common goal.
+✨ Ability to work both independently and collaboratively in a team environment.
 
-✨ Outside of work, I am an avid sports fan, especially when it comes to football.
+✨ Excellent problem-solving skills and attention to detail.
 
-✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
+✨ Ability to multitask with strict time constraints, budgets and business goals
 
+✨ Driven to learn and self-improve
+
+✨ A professional who is ensuring a polished final product.
+
+✨ Strong Communication skill!
 
 <br/>  
 
