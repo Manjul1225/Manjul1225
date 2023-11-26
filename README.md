@@ -201,7 +201,7 @@ Please visit https://Manjul1225.github.io/
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
         
 
-### About Me
+### 👉 About Me
 <br/>
 
 ✨ Ability to write clean, maintainable, and efficient code.
@@ -222,12 +222,8 @@ Please visit https://Manjul1225.github.io/
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)    
 
-<br/>  
-
-
-### Rapidfire  
+### ♻ Rapidfire  
 <table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on [Business Website Deveopment](https://github.com/seniorcoder72)  
