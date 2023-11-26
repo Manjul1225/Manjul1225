@@ -204,7 +204,7 @@ Please visit https://Manjul1225.github.io/
 ### 👉 About Me
 <br/>
 
-✨ Ability to write clean, maintainable, and efficient code.
+✨ Ability to write clean, maintainable and efficient code.
 
 ✨ Experience in developing dynamic, interactive and user-friendly  websites.
 
