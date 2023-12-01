@@ -1,6 +1,6 @@
 Please visit https://Manjul1225.github.io/
 
-![]([https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/FirstIMG.jpg])
+![](https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/FirstIMG.jpg)
 
 <table>
   <tr>
