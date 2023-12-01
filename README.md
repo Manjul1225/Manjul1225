@@ -1,6 +1,6 @@
 Please visit https://Manjul1225.github.io/
 
-![](https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true)
+![]([https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true](https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/FirstIMG.jpg))
 
 <table>
   <tr>
@@ -19,7 +19,7 @@ Please visit https://Manjul1225.github.io/
 
     </td>
     <td>    
-      <a href="https://seniorcoder72.github.io"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
+      <a href="https://seniorcoder72.github.io"><img src=""/></a>
       https://trademarktoday-nextjs.vercel.app <br/>
       https://trademarktoday-nextjs-rbxk.vercel.app
     </td>
