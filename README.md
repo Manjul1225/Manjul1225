@@ -111,7 +111,7 @@ Please visit https://Manjul1225.github.io/
         <img src="https://avatars.githubusercontent.com/u/64233257?v=4" width="100px;" alt="LeticiaMilan"/>
       </a>
       <br />
-      <a href="https://github.com/LeticiaMilan">Simon Lecoq</a>
+      <a href="https://github.com/LeticiaMilan">Letícia Milan</a>
     </td>
     <td align="center">
       <a href="https://github.com/AYIDouble">
