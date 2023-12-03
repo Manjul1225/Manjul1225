@@ -93,11 +93,11 @@ Please visit https://Manjul1225.github.io/
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/NaiboWang">
-        <img src="https://avatars.githubusercontent.com/u/149891774?v=4" width="100px;" style="border-radius: 50px;" alt="Mitsuki Miyagi"/>
+      <a href="https://github.com/Ruth12mak">
+        <img src="https://avatars.githubusercontent.com/u/120684326?v=4" width="100px;" alt="Ruth12mak"/>
       </a>
       <br />
-      <a href="https://github.com/mitsukimiyagi39">Mitsuki Miyagi</a>
+      <a href="https://github.com/Ruth12mak">Ruth Simon</a>
     </td>
     <td align="center">
       <a href="https://github.com/BoboiAzumi">
@@ -144,11 +144,11 @@ Please visit https://Manjul1225.github.io/
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Ruth12mak">
-        <img src="https://avatars.githubusercontent.com/u/120684326?v=4" width="100px;" alt="Ruth12mak"/>
+      <a href="https://github.com/farberjohannrtx">
+        <img src="https://avatars.githubusercontent.com/u/130568182?v=4" width="100px;" alt="farberjohannrtx"/>
       </a>
       <br />
-      <a href="https://github.com/Ruth12mak">Ruth Simon</a>
+      <a href="https://github.com/farberjohannrtx">farber johan</a>
     </td>
     <td align="center">
       <a href="https://github.com/hasanyalsiz">
@@ -165,15 +165,15 @@ Please visit https://Manjul1225.github.io/
       <a href="https://github.com/canan777">GÜNEŞ AKGÜL</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bitmote">
-        <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
+      <a href="https://github.com/AYIDouble">
+        <img src="https://avatars.githubusercontent.com/u/18186995?v=4" width="100px;" alt="AYIDouble"/>
       </a>
       <br />
-      <a href="https://github.com/bitmote">ZhengXiaolei</a>
+      <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
     </td>
     <td align="center">
       <a href="https://github.com/webstar0103">
-        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="webstar0103"/>
+        <img src="https://avatars.githubusercontent.com/u/115201845?v=4" width="100px;" alt="webstar0103"/>
       </a>
       <br />
       <a href="https://github.com/webstar0103">Senior Web Developer</a>
