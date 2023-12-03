@@ -97,72 +97,72 @@ Please visit https://Manjul1225.github.io/
         <img src="https://avatars.githubusercontent.com/u/149891774?v=4" width="100px;" style="border-radius: 50px;" alt="Mitsuki Miyagi"/>
       </a>
       <br />
-      <a href="https://github.com/mitsukimiyagi39"Mitsuki Miyagi</a>
+      <a href="https://github.com/mitsukimiyagi39">Mitsuki Miyagi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hoochanlon">
-        <img src="https://avatars2.githubusercontent.com/u/35732922" width="100px;" alt="hoochanlon"/>
+      <a href="https://github.com/BoboiAzumi">
+        <img src="https://avatars.githubusercontent.com/u/44026851?v=4" width="100px;" alt="BoboiAzumi"/>
       </a>
       <br />
-      <a href="https://github.com/hoochanlon">123456</a>
+      <a href="https://github.com/BoboiAzumi">BoboiAzumi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lowlighter">
-        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
+      <a href="https://github.com/LeticiaMilan">
+        <img src="https://avatars.githubusercontent.com/u/64233257?v=4" width="100px;" alt="LeticiaMilan"/>
       </a>
       <br />
-      <a href="https://github.com/lowlighter">Simon Lecoq</a>
+      <a href="https://github.com/LeticiaMilan">Simon Lecoq</a>
     </td>
     <td align="center">
-      <a href="https://github.com/snowdream">
-        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
+      <a href="https://github.com/jonathafernandes">
+        <img src="https://avatars.githubusercontent.com/u/101746582?v=4" width="100px;" alt="jonathafernandes"/>
       </a>
       <br />
-      <a href="https://github.com/snowdream">snowdream</a>
+      <a href="https://github.com/jonathafernandes">snowdream</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Leticia-maria">
-        <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
+      <a href="https://github.com/Francis-Mwaniki">
+        <img src="https://avatars.githubusercontent.com/u/105497998?v=4" width="100px;" alt="Francis-Mwaniki"/>
       </a>
       <br />
-      <a href="https://github.com/Leticia-maria">Letícia Maria Pequeno Madureira</a>
+      <a href="https://github.com/Francis-Mwaniki">Letícia Maria Pequeno Madureira</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sbilly">
-        <img src="https://avatars2.githubusercontent.com/u/123563" width="100px;" alt="sbilly"/>
+      <a href="https://github.com/justinalba747">
+        <img src="https://avatars.githubusercontent.com/u/149767241?v=4" width="100px;" alt="justinalba747"/>
       </a>
       <br />
-      <a href="https://github.com/sbilly">sbilly</a>
+      <a href="https://github.com/justinalba747">sbilly</a>
     </td>
     <td align="center">
-      <a href="https://github.com/victoryang00">
-        <img src="https://avatars2.githubusercontent.com/u/40686366" width="100px;" alt="victoryang00"/>
+      <a href="https://github.com/nizar787">
+        <img src="https://avatars.githubusercontent.com/u/94905403?v=4" width="100px;" alt="nizar787"/>
       </a>
       <br />
-      <a href="https://github.com/victoryang00">Yiwei Yang</a>
+      <a href="https://github.com/nizar787">Yiwei Yang</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/jhonataT">
-        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
+      <a href="https://github.com/Ruth12mak">
+        <img src="https://avatars.githubusercontent.com/u/120684326?v=4" width="100px;" alt="Ruth12mak"/>
       </a>
       <br />
-      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
+      <a href="https://github.com/Ruth12mak">Ruth Simon</a>
     </td>
     <td align="center">
-      <a href="https://github.com/donmartz">
-        <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
+      <a href="https://github.com/hasanyalsiz">
+        <img src="https://avatars.githubusercontent.com/u/132101909?v=4" width="100px;" alt="hasanyalsiz"/>
       </a>
       <br />
-      <a href="https://github.com/donmartz">donmartz</a>
+      <a href="https://github.com/hasanyalsiz">HASAN YALSIZ</a>
     </td>
     <td align="center">
-      <a href="https://github.com/pinhe91">
-        <img src="https://avatars2.githubusercontent.com/u/79625284" width="100px;" alt="pinhe91"/>
+      <a href="https://github.com/canan777">
+        <img src="https://avatars.githubusercontent.com/u/143961808?v=4" width="100px;" alt="canan777"/>
       </a>
       <br />
-      <a href="https://github.com/pinhe91">Han Mei</a>
+      <a href="https://github.com/canan777">GÜNEŞ AKGÜL</a>
     </td>
     <td align="center">
       <a href="https://github.com/bitmote">
@@ -172,32 +172,32 @@ Please visit https://Manjul1225.github.io/
       <a href="https://github.com/bitmote">ZhengXiaolei</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AlphaTechnolog">
-        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
+      <a href="https://github.com/pinhe91">
+        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="pinhe91"/>
       </a>
       <br />
-      <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
+      <a href="https://github.com/pinhe91">Han Mei</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zhuwenxing">
-        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
+      <a href="https://github.com/luanaxcardoso">
+        <img src="https://avatars.githubusercontent.com/u/112970416?v=4" width="100px;" alt="luanaxcardoso"/>
       </a>
       <br />
-      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
+      <a href="https://github.com/luanaxcardoso">Luana Cardoso</a>
     </td>
     <td align="center">
-      <a href="https://github.com/cnsuhao">
-        <img src="https://avatars2.githubusercontent.com/u/23429527" width="100px;" alt="cnsuhao"/>
+      <a href="https://github.com/HAsNaaAbdelRahman">
+        <img src="https://avatars.githubusercontent.com/u/83743822?v=4" width="100px;" alt="HAsNaaAbdelRahman"/>
       </a>
       <br />
-      <a href="https://github.com/cnsuhao">cnsuhao</a>
+      <a href="https://github.com/HAsNaaAbdelRahman">Hasnaa AbdelRahman</a>
     </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
 
 
-### 💬 Random Dev Quote ✍
+### 💬 My FeedBack ✍
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
         
 
