@@ -121,11 +121,11 @@ Please visit https://Manjul1225.github.io/
       <a href="https://github.com/jonathafernandes">snowdream</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Francis-Mwaniki">
-        <img src="https://avatars.githubusercontent.com/u/105497998?v=4" width="100px;" alt="Francis-Mwaniki"/>
+      <a href="https://github.com/DianaR60">
+        <img src="https://avatars.githubusercontent.com/u/145218120?v=4" width="100px;" alt="DianaR60"/>
       </a>
       <br />
-      <a href="https://github.com/Francis-Mwaniki">Letícia Maria Pequeno Madureira</a>
+      <a href="https://github.com/DianaR60">Diana Ramirez</a>
     </td>
     <td align="center">
       <a href="https://github.com/justinalba747">
@@ -172,11 +172,11 @@ Please visit https://Manjul1225.github.io/
       <a href="https://github.com/bitmote">ZhengXiaolei</a>
     </td>
     <td align="center">
-      <a href="https://github.com/pinhe91">
-        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="pinhe91"/>
+      <a href="https://github.com/webstar0103">
+        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="webstar0103"/>
       </a>
       <br />
-      <a href="https://github.com/pinhe91">Han Mei</a>
+      <a href="https://github.com/webstar0103">Senior Web Developer</a>
     </td>
     <td align="center">
       <a href="https://github.com/luanaxcardoso">
