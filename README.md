@@ -197,7 +197,7 @@ Please visit https://Manjul1225.github.io/
 <!--END_SECTION:top-followers-->
 
 
-### 💬 My FeedBack ✍
+### 💬 Clients FeedBack ✍
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
         
 
