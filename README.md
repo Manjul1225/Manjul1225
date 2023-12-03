@@ -99,12 +99,12 @@ Please visit https://Manjul1225.github.io/
       <br />
       <a href="https://github.com/Ruth12mak">Ruth Simon</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/AYIDouble">
-        <img src="https://avatars.githubusercontent.com/u/18186995?v=4" width="100px;" alt="AYIDouble"/>
+ <td align="center">
+      <a href="https://github.com/jonathafernandes">
+        <img src="https://avatars.githubusercontent.com/u/101746582?v=4" width="100px;" alt="jonathafernandes"/>
       </a>
       <br />
-      <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
+      <a href="https://github.com/jonathafernandes">Jonatha</a>
     </td>
     <td align="center">
       <a href="https://github.com/LeticiaMilan">
@@ -114,11 +114,11 @@ Please visit https://Manjul1225.github.io/
       <a href="https://github.com/LeticiaMilan">Simon Lecoq</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jonathafernandes">
-        <img src="https://avatars.githubusercontent.com/u/101746582?v=4" width="100px;" alt="jonathafernandes"/>
+      <a href="https://github.com/AYIDouble">
+        <img src="https://avatars.githubusercontent.com/u/18186995?v=4" width="100px;" alt="AYIDouble"/>
       </a>
       <br />
-      <a href="https://github.com/jonathafernandes">snowdream</a>
+      <a href="https://github.com/AYIDouble">Alpay Yildirim</a>
     </td>
     <td align="center">
       <a href="https://github.com/DianaR60">
