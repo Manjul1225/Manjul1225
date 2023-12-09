@@ -199,7 +199,8 @@ Please visit https://Manjul1225.github.io/
 
 
 ### 💬 Clients FeedBack ✍
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/Feedback1.png)
+![](https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/Feedback2.png)
         
 
 ### 👉 About Me
