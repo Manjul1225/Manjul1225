@@ -26,6 +26,7 @@ Please visit https://Manjul1225.github.io/
   </tr>
 </table>
 
+[![Email me](https://img.shields.io/badge/Email-me-brightgreen)](mailto:manjulbhargava660@gmail.com)
 
 # ✨ @CodeStar007, Welcome! ✨
 
