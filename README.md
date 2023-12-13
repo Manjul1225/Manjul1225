@@ -1,4 +1,4 @@
-Please visit https://Manjul1225.github.io/
+Please visit https://manjul-portfolio.vercel.app/
 
 ![](https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/FirstIMG.jpg)
 
@@ -83,9 +83,6 @@ Please visit https://Manjul1225.github.io/
 
 ### 💦 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=seniorcoder72&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### :sparkles: My Followers
@@ -251,12 +248,8 @@ Please visit https://Manjul1225.github.io/
 ## Product Sale Website
 <a href="https://github.com/Manjul1225/Shopsite" target="_blank">![Trademarktoday](https://github.com/Manjul1225/Shopsite/blob/master/screenshots/interface.jpg)</a>
 <a href="https://github.com/Manjul1225/Shopsite" target="_blank">![Trademarktoday](https://github.com/Manjul1225/Shopsite/blob/master/screenshots/recommended.jpg)</a>
-## InvestFarmLand Business Website
-<a href="https://github.com/seniorcoder72/invest-farm" target="_blank">![InvestFarm](https://github.com/seniorcoder72/invest-farm/blob/master/public/logo1.png?raw=true)</a>
-<a href="https://github.com/seniorcoder72/invest-farm" target="_blank">![InvestFarm](https://github.com/seniorcoder72/invest-farm/blob/master/public/logo2.png?raw=true)</a>
+
 ## Shopping
 <a href="https://github.com/Manjul1225/shop_react">![ShopReact](https://github.com/Manjul1225/shop_react/blob/master/src/images/banner2.webp)</a>
 <a href="https://github.com/Manjul1225/shop_react">![ShopReact](https://github.com/Manjul1225/shop_react/blob/master/public/post.png)</a>
-## Google Map API Delivery Site
-<a href="https://github.com/seniorcoder72/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-1.png?raw=true)</a>
-<a href="https://github.com/seniorcoder72/Google-Map-API" target="_blank">![GoogleMapAPI](https://github.com/StevenHocking/Google-Map-API/blob/master/refs/Frontend-2.png?raw=true)</a>
+
