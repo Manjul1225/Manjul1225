@@ -6,20 +6,22 @@ Please visit https://manjul-portfolio.vercel.app/
   <tr>
     <td>
       
-- [@CodeStar007, Welcome!](codestar007-welcome)
-  - [My personal values and work ethic](#my-personal-values-and-work-ethic)
-  - [Rapidfire](#rapidfire)
-  - [Languages and Tools](#languages-and-tools)
-- [📊 GitHub Stats:](#-github-stats)
-    - [🏆 GitHub Trophies](#-github-trophies)
-    - [✍️ Random Dev Quote](#️-random-dev-quote)
-    - [🔝 Top Contributed Repo](#-top-contributed-repo)
-    - [😂 Random Dev Meme](#-random-dev-meme)
-- [Do you want to see my past work?](#do-you-want-to-see-my-past-work)
+- [@CodeStar007, Welcome!]( #✨ @CodeStar007, Welcome! ✨)
+  - [🎫 Languages and Tools](##🎫 Languages and Tools)
+  - [💦 GitHub Stats:](##💦 GitHub Stats:)
+  - [My Followers](##My Followers)
+  - [💬 Clients FeedBack ✍](##💬 Clients FeedBack ✍)
+  - [👉 About Me](##👉 About Me)
+  - [♻ Rapidfire](##♻ Rapidfire)
+- [🏆 Recent Work 🏆](#🏆 Recent Work 🏆)
+  - [Shopping](##Shopping)
+  - [Shirt Sale Website](##Shirt Sale Website)
+  - [Several Product Sale Website](##Several Product Sale Website)
+  - [PHP SEO Improving](#PHP SEO Improving)
 
     </td>
     <td>    
-      <a href="https://seniorcoder72.github.io"><img src="https://github.com/Manjul1225/Manjul1225/blob/master/Total.png"/></a>
+      <a href="https://Manjul1225"><img src="https://github.com/Manjul1225/Manjul1225/blob/master/Total.png"/></a>
     </td>
   </tr>
 </table>
@@ -79,11 +81,11 @@ Please visit https://manjul-portfolio.vercel.app/
 <br/>  
   
 
-### 💦 GitHub Stats:
+## 💦 GitHub Stats:
 
 
 
-### :sparkles: My Followers
+## :sparkles: My Followers
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -242,7 +244,7 @@ Please visit https://manjul-portfolio.vercel.app/
 
 <br/>  
 
-# 🏆 Do you want to see my past work? 🏆
+# 🏆 Recent Work 🏆
 
 ## Shopping
 <a href="https://reactshop-sbpi.onrender.com">![ShopReact](https://github.com/Manjul1225/Manjul1225/blob/master/Show1.webp)</a>
