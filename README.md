@@ -6,14 +6,14 @@ Please visit https://manjul-portfolio.vercel.app/
   <tr>
     <td>
       
-- [@CodeStar007, Welcome!]( #✨ @CodeStar007, Welcome! ✨)
-  - [🎫 Languages and Tools](##🎫 Languages and Tools)
-  - [💦 GitHub Stats:](##💦 GitHub Stats:)
+- [@CodeStar007, Welcome!]( #@CodeStar007, Welcome!)
+  - [Languages and Tools](##Languages and Tools)
+  - [GitHub Stats:](##GitHub Stats:)
   - [My Followers](##My Followers)
-  - [💬 Clients FeedBack ✍](##💬 Clients FeedBack ✍)
-  - [👉 About Me](##👉 About Me)
-  - [♻ Rapidfire](##♻ Rapidfire)
-- [🏆 Recent Work 🏆](#🏆 Recent Work 🏆)
+  - [Clients FeedBack](##Clients FeedBack)
+  - [About Me](##About Me)
+  - [Rapidfire](##♻ Rapidfire)
+- [Recent Work](#Recent Work)
   - [Shopping](##Shopping)
   - [Shirt Sale Website](##Shirt Sale Website)
   - [Several Product Sale Website](##Several Product Sale Website)
