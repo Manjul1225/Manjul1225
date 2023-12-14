@@ -97,7 +97,7 @@ Please visit https://manjul-portfolio.vercel.app/
       <br />
       <a href="https://github.com/Ruth12mak">Ruth Simon</a>
     </td>
- <td align="center">
+   <td align="center">
       <a href="https://github.com/jonathafernandes">
         <img src="https://avatars.githubusercontent.com/u/101746582?v=4" width="100px;" alt="jonathafernandes"/>
       </a>
@@ -253,3 +253,17 @@ Please visit https://manjul-portfolio.vercel.app/
 <a href="https://github.com/Manjul1225/shop_react">![ShopReact](https://github.com/Manjul1225/shop_react/blob/master/src/images/banner2.webp)</a>
 <a href="https://github.com/Manjul1225/shop_react">![ShopReact](https://github.com/Manjul1225/shop_react/blob/master/public/post.png)</a>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ruth12mak">
+        <img src="https://github.com/Manjul1225/Manjul1225/blob/master/Pro1%20(2).png" width="100px;" alt="Ruth12mak"/>
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/jonathafernandes">
+        <img src="https://github.com/Manjul1225/Manjul1225/blob/master/Pro1%20(2).jpg" width="100px;" alt="jonathafernandes"/>
+      </a>
+   </td>
+ </tr>
+</table>
