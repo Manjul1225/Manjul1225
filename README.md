@@ -254,6 +254,6 @@ Please visit https://manjul-portfolio.vercel.app/
 <a href="https://github.com/Manjul1225/shop_react">![ShopReact](https://github.com/Manjul1225/shop_react/blob/master/public/post.png)</a>
 ## PHP SEO Improving
 <p align="center">
-  <img src="https://github.com/Manjul1225/Manjul1225/blob/master/Pro1%20(2).png" alt="my project" width="400"/>
-  <img src="https://github.com/Manjul1225/Manjul1225/blob/master/Pro1%20(2).jpg" alt="my project" width="400"/> 
+  <img src="https://github.com/Manjul1225/Manjul1225/blob/master/Pro1%20(2).png" alt="my project" width="1000"/>
+  <img src="https://github.com/Manjul1225/Manjul1225/blob/master/Pro1%20(2).jpg" alt="my project" width="1000"/> 
 </p>
