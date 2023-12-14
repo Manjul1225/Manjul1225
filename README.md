@@ -252,18 +252,8 @@ Please visit https://manjul-portfolio.vercel.app/
 ## Shopping
 <a href="https://github.com/Manjul1225/shop_react">![ShopReact](https://github.com/Manjul1225/shop_react/blob/master/src/images/banner2.webp)</a>
 <a href="https://github.com/Manjul1225/shop_react">![ShopReact](https://github.com/Manjul1225/shop_react/blob/master/public/post.png)</a>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Ruth12mak">
-        <img src="https://github.com/Manjul1225/Manjul1225/blob/master/Pro1%20(2).png" width="100px;" alt="Ruth12mak"/>
-      </a>
-    </td>
-   <td align="center">
-      <a href="https://github.com/jonathafernandes">
-        <img src="https://github.com/Manjul1225/Manjul1225/blob/master/Pro1%20(2).jpg" width="100px;" alt="jonathafernandes"/>
-      </a>
-   </td>
- </tr>
-</table>
+## PHP SEO Improving
+<p align="center">
+  <img src="https://github.com/Manjul1225/Manjul1225/blob/master/Pro1%20(2).png" alt="my project" width="400"/>
+  <img src="https://github.com/Manjul1225/Manjul1225/blob/master/Pro1%20(2).jpg" alt="my project" width="400"/> 
+</p>
