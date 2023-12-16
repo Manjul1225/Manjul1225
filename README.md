@@ -22,6 +22,7 @@ Please visit https://manjul-portfolio.vercel.app/
     </td>
     <td>    
       <a href="https://Manjul1225"><img src="https://github.com/Manjul1225/Manjul1225/blob/master/Total.png" width="800"/></a>
+      <a href="https://Manjul1225"><img src="https://github.com/Manjul1225/Manjul1225/blob/master/My%20certificate.png" width="800"/></a>
     </td>
   </tr>
 </table>
