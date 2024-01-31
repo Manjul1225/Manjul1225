@@ -1,23 +1,23 @@
 Please visit https://manjul-portfolio.vercel.app/
 
-<a href="https://Manjul1225"><img src="https://github.com/Manjul1225/Manjul1225/blob/master/Total.png" width="1000"/></a>
+<a href="https://github.com/Manjul1225"><img src="https://github.com/Manjul1225/Manjul1225/blob/master/Total.png" width="1000"/></a>
 
 <table>
   <tr>
     <td>
       
-- [ ✨ CodeStar007, Welcome!](#codeStar007-welcome!-)
-  - [Languages and Tools](#languages-and-tools-)
-  - [My Followers](#my-followers-)
-  - [Clients FeedBack](#Clients-FeedBack-)
-  - [About Me](#About-Me-)
-  - [Rapidfire](#Rapidfire-)
+- [ ✨ CodeStar007, Welcome!](#codestar007-welcome!-)
+    - [Languages and Tools](#languages-and-tools-)
+    - [My Followers](#my-followers-)
+    - [Clients FeedBack](#Clients-FeedBack-)
+    - [About Me](#About-Me-)
+    - [Rapidfire](#Rapidfire-)
 - [ 💦 My Certificate](#My-Certificate-)
 - [ 🏆 Recent Work](#Recent-Work-)
-  - [Shopping](##Shopping-)
-  - [Shirt Sale Website](##Shirt-)
-  - [Several Product Sale Website](##Several-Produc-tSale-Website-)
-  - [PHP SEO Improving](#PHP-SEO-Improving-)
+    - [Shopping](##shopping-)
+    - [Shirt Sale Website](##Shirt-)
+    - [Several Product Sale Website](##Several-Produc-tSale-Website-)
+    - [PHP SEO Improving](#PHP-SEO-Improving-)
 
     </td>
     <td>    
