@@ -137,11 +137,11 @@ Please visit https://manjul-portfolio.vercel.app/
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Oudinunit">
-        <img src="https://avatars.githubusercontent.com/u/107595400?v=4" width="100px;" alt="Oudinunit"/>
+      <a href="https://github.com/swikritii">
+        <img src="https://avatars.githubusercontent.com/u/58209841?v=4" width="100px;" alt="swikritii"/>
       </a>
       <br />
-      <a href="https://github.com/Oudinunit">nittaya schlamp</a>
+      <a href="https://github.com/Oudinunit">Swikriti K.C.</a>
     </td>
     <td align="center">
       <a href="https://github.com/hasanyalsiz">
