@@ -6,21 +6,22 @@ Please visit https://manjul-portfolio.vercel.app/
   <tr>
     <td>
       
-- [@CodeStar007, Welcome!](#@CodeStar007,Welcome!)
-  - [Languages and Tools](##LanguagesandTools)
-  - [My Followers](##MyFollowers)
-  - [Clients FeedBack](##ClientsFeedBack)
-  - [About Me](##AboutMe)
-  - [Rapidfire](##♻Rapidfire)
-- [Recent Work](#RecentWork)
-  - [Shopping](##Shopping)
-  - [Shirt Sale Website](##Shirt)
-  - [Several Product Sale Website](##SeveralProductSaleWebsite)
-  - [PHP SEO Improving](#PHPSEOImproving)
+- [ ✨ CodeStar007, Welcome!](#@CodeStar007,-Welcome!-)
+  - [Languages and Tools](#Languages-and-Tools-)
+  - [My Followers](#My-Followers-)
+  - [Clients FeedBack](#Clients-FeedBack-)
+  - [About Me](#About-Me-)
+  - [Rapidfire](#Rapidfire-)
+- [ 💦 My Certificate](#My-Certificate-)
+- [ 🏆 Recent Work](#Recent-Work-)
+  - [Shopping](##Shopping-)
+  - [Shirt Sale Website](##Shirt-)
+  - [Several Product Sale Website](##Several-Produc-tSale-Website-)
+  - [PHP SEO Improving](#PHP-SEO-Improving-)
 
     </td>
     <td>    
-      ![](https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/FirstIMG.jpg)
+      (https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/FirstIMG.jpg)
     </td>
   </tr>
 </table>
