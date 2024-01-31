@@ -28,9 +28,9 @@ Please visit https://manjul-portfolio.vercel.app/
 
 [![Email me](https://img.shields.io/badge/Email-me-brightgreen)](mailto:manjulbhargava660@gmail.com)
 
-# CodeStar007 Welcome! ✨
+## ✨ CodeStar007, Welcome! ✨
 
-### 🎫 Languages and Tools  
+#### 🎫 Languages and Tools  
 <br/>
 <div align="center">  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
