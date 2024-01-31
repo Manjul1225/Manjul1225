@@ -6,7 +6,7 @@ Please visit https://manjul-portfolio.vercel.app/
   <tr>
     <td>
       
-- [ ✨ CodeStar007, Welcome!](#@CodeStar007,-Welcome!-)
+- [ ✨ CodeStar007, Welcome!](#CodeStar007-Welcome!-)
   - [Languages and Tools](#Languages-and-Tools-)
   - [My Followers](#My-Followers-)
   - [Clients FeedBack](#Clients-FeedBack-)
@@ -28,7 +28,7 @@ Please visit https://manjul-portfolio.vercel.app/
 
 [![Email me](https://img.shields.io/badge/Email-me-brightgreen)](mailto:manjulbhargava660@gmail.com)
 
-# ✨ @CodeStar007, Welcome! ✨
+# CodeStar007 Welcome! ✨
 
 ### 🎫 Languages and Tools  
 <br/>
