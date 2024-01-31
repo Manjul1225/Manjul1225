@@ -17,7 +17,7 @@ Please visit https://manjul-portfolio.vercel.app/
     - [Shopping](#Shopping)
     - [Shirt Sale Website](#Shirt-sale-website-)
     - [Several Product Sale Website](#Several-Produc-tSale-Website-)
-    - [PHP SEO Improving]((#PHP-SEO-Improving-)
+    - [PHP SEO Improving](#PHP-SEO-Improving-)
 
     </td>
     <td>    
@@ -245,10 +245,13 @@ Please visit https://manjul-portfolio.vercel.app/
 
 ### Shopping
 <a href="https://reactshop-sbpi.onrender.com">![ShopReact](https://github.com/Manjul1225/Manjul1225/blob/master/Show1.webp)</a>
+
 ### Shirt Sale Website
 <a href="https://github.com/Manjul1225/Shopsite" target="_blank">![Shirt](https://github.com/Manjul1225/Manjul1225/blob/master/Show2.png)</a>
+
 ### Several Product Sale Website
 <a href="https://shop-hrsh.pages.dev/" target="_blank">![Product](https://github.com/Manjul1225/Manjul1225/blob/master/Show3.jpg)</a>
+
 ### PHP SEO Improving
 <a href="https://www.web4business.com.br/" target="_blank">![Web4](https://github.com/Manjul1225/Manjul1225/blob/master/Show4.png)</a>
 
