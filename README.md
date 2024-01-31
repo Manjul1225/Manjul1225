@@ -7,7 +7,6 @@ Please visit https://manjul-portfolio.vercel.app/
     <td>
       
 - [ ✨ CodeStar007, Welcome!](#codestar007-welcome!-)
-    - [Shopping](#Shopping)
     - [Languages and Tools](#languages-and-tools-)
     - [My Followers](#my-followers-)
     - [Clients FeedBack](#Clients-FeedBack-)
@@ -15,9 +14,9 @@ Please visit https://manjul-portfolio.vercel.app/
     - [Rapidfire](#Rapidfire-)
 - [ 💦 My Certificate](#My-Certificate-)
 - [ 🏆 Recent Work](#Recent-Work-)
-    - [Shopping](##shopping-)
-    - [Shirt Sale Website](##Shirt-)
-    - [Several Product Sale Website](##Several-Produc-tSale-Website-)
+    - [Shopping](#Shopping)
+    - [Shirt Sale Website](#Shirt-sale-website-)
+    - [Several Product Sale Website](#Several-Produc-tSale-Website-)
     - [PHP SEO Improving](#PHP-SEO-Improving-)
 
     </td>
@@ -29,9 +28,9 @@ Please visit https://manjul-portfolio.vercel.app/
 
 [![Email me](https://img.shields.io/badge/Email-me-brightgreen)](mailto:manjulbhargava660@gmail.com)
 
-## ✨ CodeStar007, Welcome! ✨
+# ✨ CodeStar007, Welcome! ✨
 
-#### 🎫 Languages and Tools  
+### 🎫 Languages and Tools  
 <br/>
 <div align="center">  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
@@ -81,7 +80,7 @@ Please visit https://manjul-portfolio.vercel.app/
 
 <br/>  
   
-## :sparkles: My Followers
+### :sparkles: My Followers
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -240,16 +239,16 @@ Please visit https://manjul-portfolio.vercel.app/
 
 <br/>  
 
-## 💦 My Certificate:
+# 💦 My Certificate:
   <a href="https://Manjul1225"><img src="https://github.com/Manjul1225/Manjul1225/blob/master/My%20certificate.png" width="800"/></a>
 # 🏆 Recent Work 🏆
 
-## Shopping
+### Shopping
 <a href="https://reactshop-sbpi.onrender.com">![ShopReact](https://github.com/Manjul1225/Manjul1225/blob/master/Show1.webp)</a>
-## Shirt Sale Website
+### Shirt Sale Website
 <a href="https://github.com/Manjul1225/Shopsite" target="_blank">![Shirt](https://github.com/Manjul1225/Manjul1225/blob/master/Show2.png)</a>
-## Several Product Sale Website
+### Several Product Sale Website
 <a href="https://shop-hrsh.pages.dev/" target="_blank">![Product](https://github.com/Manjul1225/Manjul1225/blob/master/Show3.jpg)</a>
-## PHP SEO Improving
+### PHP SEO Improving
 <a href="https://www.web4business.com.br/" target="_blank">![Web4](https://github.com/Manjul1225/Manjul1225/blob/master/Show4.png)</a>
 
