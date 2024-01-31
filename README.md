@@ -1,27 +1,26 @@
 Please visit https://manjul-portfolio.vercel.app/
 
-![](https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/FirstIMG.jpg)
+<a href="https://Manjul1225"><img src="https://github.com/Manjul1225/Manjul1225/blob/master/Total.png" width="1000"/></a>
 
 <table>
   <tr>
     <td>
       
-- [@CodeStar007, Welcome!]( #@CodeStar007, Welcome!)
-  - [Languages and Tools](##Languages and Tools)
-  - [GitHub Stats:](##GitHub Stats:)
-  - [My Followers](##My Followers)
-  - [Clients FeedBack](##Clients FeedBack)
-  - [About Me](##About Me)
-  - [Rapidfire](##♻ Rapidfire)
-- [Recent Work](#Recent Work)
+- [@CodeStar007, Welcome!](#@CodeStar007,Welcome!)
+  - [Languages and Tools](##LanguagesandTools)
+  - [My Followers](##MyFollowers)
+  - [Clients FeedBack](##ClientsFeedBack)
+  - [About Me](##AboutMe)
+  - [Rapidfire](##♻Rapidfire)
+- [Recent Work](#RecentWork)
   - [Shopping](##Shopping)
-  - [Shirt Sale Website](##Shirt Sale Website)
-  - [Several Product Sale Website](##Several Product Sale Website)
-  - [PHP SEO Improving](#PHP SEO Improving)
+  - [Shirt Sale Website](##Shirt)
+  - [Several Product Sale Website](##SeveralProductSaleWebsite)
+  - [PHP SEO Improving](#PHPSEOImproving)
 
     </td>
     <td>    
-      <a href="https://Manjul1225"><img src="https://github.com/Manjul1225/Manjul1225/blob/master/Total.png" width="1000"/></a>
+      ![](https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/FirstIMG.jpg)
     </td>
   </tr>
 </table>
@@ -220,7 +219,7 @@ Please visit https://manjul-portfolio.vercel.app/
 ### ♻ Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [Business Website Deveopment](https://github.com/seniorcoder72)  
+- 🔭 I’m currently working on Business Website Deveopment
   
 
 - 🌱 I’m currently building business websites using Next.js, Typescript, Tailwind CSS.  
