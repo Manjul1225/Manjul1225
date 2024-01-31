@@ -6,9 +6,9 @@ Please visit https://manjul-portfolio.vercel.app/
   <tr>
     <td>
       
-- [ ✨ CodeStar007, Welcome!](#CodeStar007-Welcome!-)
-  - [Languages and Tools](#Languages-and-Tools-)
-  - [My Followers](#My-Followers-)
+- [ ✨ CodeStar007, Welcome!](#codeStar007-welcome!-)
+  - [Languages and Tools](#languages-and-tools-)
+  - [My Followers](#my-followers-)
   - [Clients FeedBack](#Clients-FeedBack-)
   - [About Me](#About-Me-)
   - [Rapidfire](#Rapidfire-)
@@ -21,7 +21,7 @@ Please visit https://manjul-portfolio.vercel.app/
 
     </td>
     <td>    
-      (https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/FirstIMG.jpg)
+      <a href="https://manjul-portfolio.vercel.app/"><img src="https://github.com/Manjul1225/portfolio_html/blob/master/assets/img/FirstIMG.jpg" width="1000"/></a>
     </td>
   </tr>
 </table>
