@@ -7,6 +7,7 @@ Please visit https://manjul-portfolio.vercel.app/
     <td>
       
 - [ ✨ CodeStar007, Welcome!](#codestar007-welcome!-)
+    - [Shopping](#Shopping)
     - [Languages and Tools](#languages-and-tools-)
     - [My Followers](#my-followers-)
     - [Clients FeedBack](#Clients-FeedBack-)
