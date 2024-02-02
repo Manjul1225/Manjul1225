@@ -12,7 +12,6 @@ Please visit https://manjul-portfolio.vercel.app/
     - [Clients FeedBack](#Clients-FeedBack-)
     - [About Me](#About-Me-)
     - [Rapidfire](#Rapidfire-)
-- [ 💦 My Certificate](#My-Certificate-)
 - [ 🏆 Recent Work](#Recent-Work-)
     - [Shopping](#Shopping)
     - [Shirt Sale Website](#Shirt-sale-website-)
@@ -137,11 +136,11 @@ Please visit https://manjul-portfolio.vercel.app/
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/swikritii">
-        <img src="https://avatars.githubusercontent.com/u/58209841?v=4" width="100px;" alt="swikritii"/>
+      <a href="https://github.com/aylarghezelbash">
+        <img src="https://avatars.githubusercontent.com/u/153182067?v=4" width="100px;" alt="Aylar Ghezelbash"/>
       </a>
       <br />
-      <a href="https://github.com/Oudinunit">Swikriti K.C.</a>
+      <a href="https://github.com/aylarghezelbash">Aylar Ghezelbash</a>
     </td>
     <td align="center">
       <a href="https://github.com/hasanyalsiz">
@@ -239,8 +238,6 @@ Please visit https://manjul-portfolio.vercel.app/
 
 <br/>  
 
-# 💦 My Certificate:
-  <a href="https://Manjul1225"><img src="https://github.com/Manjul1225/Manjul1225/blob/master/My%20certificate.png" width="800"/></a>
 # 🏆 Recent Work 🏆
 
 ### Shopping
