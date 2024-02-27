@@ -14,8 +14,8 @@ Please visit https://manjul-portfolio.vercel.app/
     - [Rapidfire](#Rapidfire-)
 - [ 🏆 Recent Work](#Recent-Work-)
     - [Shopping](#Shopping)
-    - [Shirt Sale Website](#Shirt-sale-website-)
-    - [Several Product Sale Website](#Several-Produc-tSale-Website-)
+    - [NatureCity](#NatureCity-)
+    - [Wine shopsite](#wine-shopsite-)
     - [PHP SEO Improving](#PHP-SEO-Improving-)
 
     </td>
@@ -243,11 +243,11 @@ Please visit https://manjul-portfolio.vercel.app/
 ### Shopping
 <a href="https://reactshop-sbpi.onrender.com">![ShopReact](https://github.com/Manjul1225/Manjul1225/blob/master/Show1.webp)</a>
 
-### Shirt Sale Website
-<a href="https://github.com/Manjul1225/Shopsite" target="_blank">![Shirt](https://github.com/Manjul1225/Manjul1225/blob/master/Show2.png)</a>
+### NatureCity
+<a href="https://www.naturecity.com/" target="_blank">![NatureCity](https://github.com/Manjul1225/Manjul1225/blob/master/naturecity/4.png)</a>
 
-### Several Product Sale Website
-<a href="https://shop-hrsh.pages.dev/" target="_blank">![Product](https://github.com/Manjul1225/Manjul1225/blob/master/Show3.jpg)</a>
+### Wine_shopsite
+<a href="https://www.wine.com.br/" target="_blank">![Product](https://github.com/Manjul1225/Manjul1225/blob/master/wine_shopsite/2.png)</a>
 
 ### PHP SEO Improving
 <a href="https://www.web4business.com.br/" target="_blank">![Web4](https://github.com/Manjul1225/Manjul1225/blob/master/Show4.png)</a>
