@@ -1,4 +1,4 @@
-Please visit https://manjul1225-portfolio.vercel.app/
+Please visit https://manjul-portfolio.vercel.app/
 
 <a href="https://github.com/Manjul1225"><img src="https://github.com/Manjul1225/Manjul1225/blob/master/Total.png" width="1000"/></a>
 
